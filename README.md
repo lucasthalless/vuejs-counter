@@ -1,6 +1,6 @@
 # VueJS counter
 
-Aplicativo simples de contador que desenvolvi nos meus estudos introdutórios ao VueJS. Foi desenvolvida uma versão em JS puro [(js-counter)](./js-counter) e outra em VueJS [(vue-counter-app)](./vue-counter-app) para entender as diferenças e os pontos positivos de usar o framework.
+Aplicativo simples de contador que desenvolvi nos meus estudos introdutórios ao VueJS. Foi desenvolvida uma versão em JS puro ([js-counter](./js-counter)) e outra em VueJS ([vue-counter-app](./vue-counter-app)) para entender as diferenças e os pontos positivos de usar o framework.
 
 Conhecimentos sobre VueJS adquiridos:
 
