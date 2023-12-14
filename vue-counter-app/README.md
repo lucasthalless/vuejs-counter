@@ -2,5 +2,7 @@
 
 Para rodar o aplicativo execute os comandos:
 
-> npm i
-> npm run dev
+```shell
+npm i
+npm run dev
+```
